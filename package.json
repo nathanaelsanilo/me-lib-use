@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@peachfull/me-lib-ui": "link:..\\me-lib-ui",
+    "@peachfull/me-lib-ui": "^0.1.7",
     "@peachfull/me-npm": "^1.0.0",
     "vue": "^3.2.45"
   },
